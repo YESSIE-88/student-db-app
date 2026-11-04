@@ -6,7 +6,7 @@ A Python application that connects to PostgreSQL and performs CRUD operations on
 
 ## Demonstration Video
 
-[VIDEO LINK HERE]
+[Youtube Video Demo](https://www.youtube.com/watch?v=CaKEC3WLEO8)
 
 ## Functions
 

@@ -64,10 +64,8 @@ def getAllStudents() -> None:
         print("No student records found.")
         return
 
-    print(
-        f"{'ID':<6} {'First Name':<15} {'Last Name':<15} "
-        f"{'Email':<32} {'Enrollment Date':<15}"
-    )
+    print()
+    print(f"{'ID':<6} {'First Name':<15} {'Last Name':<15} {'Email':<32} {'Enrollment Date':<15}")
     print("-" * 90)
 
     for student_id, first_name, last_name, email, enrollment_date in rows:
